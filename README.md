@@ -1,5 +1,5 @@
 # lightboxkit
-Analogue UIKit LightBox https://getuikit.com/docs/lightbox.html Work without UIKit, without JQuery, without FontAwesome
+Analogue UIKit LightBox https://getuikit.com/docs/lightbox.html Work without UIKit, without JQuery, without FontAwesome. 20KB withow compression and uglify
 
 ![Analogue UIKit LightBox](https://raw.github.com/xdan/lightboxkit/master/screen.jpg)
 
