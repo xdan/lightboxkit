@@ -1,7 +1,10 @@
 # lightboxkit
-Analogue UIKit LightBox https://getuikit.com/docs/lightbox.html Work without UIKit, without JQuery, without FontAwesome. 20KB without compression and uglify
+Analogue UIKit LightBox https://getuikit.com/docs/lightbox.html Work without UIKit, without JQuery, without FontAwesome. About 20KB without compression and uglify
 
 ![Analogue UIKit LightBox](https://raw.github.com/xdan/lightboxkit/master/screen.jpg)
+
+## Support
+IE 9+
 
 ## Get started
 
